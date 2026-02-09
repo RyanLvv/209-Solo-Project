@@ -1,5 +1,6 @@
 # 209-Solo-Project
 CIS 209 2026 (Raise the Bar Gym) 
+
 ##Business Description
 
 Raise The Bar Gym — Muscle Shoals, Alabama (est. 2012)
