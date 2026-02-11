@@ -15,4 +15,4 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 Implement all pictures provided by buisness
 Ensures the asthettic follows established brand image
 Implement "verticalGymBannetTrailSession" jpg 
-## Tecncal Requirements
+## Technical Requirements
