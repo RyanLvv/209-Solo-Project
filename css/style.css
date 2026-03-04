@@ -1,1 +1,23 @@
-/* placeholder */
+header {
+    position: relative;
+    text-align: center;
+}
+
+.header_banner {
+    width: 100%;
+    display: block;
+}
+
+header nav {
+    position: absolute;
+    top: 350px;          /* adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+header nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
