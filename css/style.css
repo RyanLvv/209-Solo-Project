@@ -21,3 +21,11 @@ header nav a {
     text-decoration: none;
     font-weight: bold;
 }
+
+.uniform-image {
+    height: 300px;
+    width: 300px;
+}
+Main {
+    background-color: #ff6a00;
+}
