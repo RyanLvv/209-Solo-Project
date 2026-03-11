@@ -9,10 +9,11 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 
 ## Wireframe
 
-![Gym Wireframe](https://github.com/RyanLvv/209-Solo-Project/blob/main/Wireframe.jpg?raw=true)
+https://github.com/RyanLvv/209-Solo-Project/blob/main/imgs/Wireframe.jpg?raw=true
 
 ## System Requirements
 Implement all pictures provided by buisness
 Ensures the asthettic follows established brand image
 Implement "verticalGymBannetTrailSession" jpg 
 ## Technical Requirements
+
