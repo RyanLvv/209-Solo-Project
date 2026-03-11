@@ -13,9 +13,12 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 
 ## System Requirements
 Implement all pictures provided by buisness
-Ensures the asthettic follows established brand image
+Ensures the asthetic follows established brand image
 Implement "verticalGymBannetTrailSession" jpg 
 ## Technical Requirements
+Languages used: CSS and HTML
+Deployment: Deployed through Github pages
+
 
 
 
