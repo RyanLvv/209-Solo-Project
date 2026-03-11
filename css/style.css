@@ -26,6 +26,16 @@ header nav a {
     height: 300px;
     width: 300px;
 }
+
 Main {
     background-color: #ff6a00;
+}
+
+.content-section {
+  padding: 30px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.content-section:gym-border {
+  border-bottom: none;
 }
