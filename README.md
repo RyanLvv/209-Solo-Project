@@ -16,8 +16,9 @@ Implement all pictures provided by buisness
 Ensures the asthetic follows established brand image
 Implement "verticalGymBannetTrailSession" jpg 
 ## Technical Requirements
-- [] Languages used: CSS and HTML
-- [] Deployment: Deployed through Github pages
+-  Languages used: CSS and HTML
+-  Deployment: Deployed through Github pages
+
 
 
 
